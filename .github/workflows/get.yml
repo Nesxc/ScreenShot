@@ -44,6 +44,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sheep7.xyz/ -o sheep7.xyz.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yuanyuanzi.top/ -o yuanyuanzi.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ciraos.top/ -o ciraos.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://thehosts.xyz/ -o thehosts.xyz.jpg
         
         curl https://purge.jsdelivr.net/gh/Nesxc/ScreenShot@gh-pages/*.*
     - name: Deploy
