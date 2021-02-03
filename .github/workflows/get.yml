@@ -48,7 +48,8 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.qingxu.live/ -o blog.qingxu.live.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.imzjw.cn/ -o blog.imzjw.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ccknbc.cc/ -o blog.ccknbc.cc.jpg
-        
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zykj.js.org/ -o blog.ccknbc.cc.jpg
+
         curl https://purge.jsdelivr.net/gh/Nesxc/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
