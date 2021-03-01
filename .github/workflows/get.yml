@@ -50,6 +50,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ccknbc.cc/ -o blog.ccknbc.cc.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zykj.js.org/ -o zykj.js.org.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://oy6090.top/ -o oy6090.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://cnhuazhu.gitee.io/ -o cnhuazhu.gitee.io.jpg
 
         curl https://purge.jsdelivr.net/gh/Nesxc/ScreenShot@gh-pages/*.*
     - name: Deploy
