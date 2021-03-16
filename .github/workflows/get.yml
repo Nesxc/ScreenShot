@@ -53,7 +53,8 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://oy6090.top/ -o oy6090.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://cnhuazhu.gitee.io/ -o cnhuazhu.gitee.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sutianxin.top/ -o sutianxin.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://jeckxu.cn/ -o jeckxu.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://adil.com.cn/ -o sutianxin.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://jeckxu.cn/ -o adil.com.cn.jpg
 
         curl https://purge.jsdelivr.net/gh/Nesxc/ScreenShot@gh-pages/*.*
     - name: Deploy
